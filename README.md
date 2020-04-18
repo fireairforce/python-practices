@@ -1,0 +1,2 @@
+## Intro
+some python practices
